@@ -1,6 +1,5 @@
 module.exports = {
-  /*HOST: "35.232.232.192",*/
-  HOST: "localhost",
+  HOST: "35.232.232.192",
   PORT: 27017,
   DB: "youtuve"
 };
